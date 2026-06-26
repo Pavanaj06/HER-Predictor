@@ -1,5 +1,6 @@
-gradio
-pandas
-scikit-learn
-xgboost
-joblib
+gradio==5.34.2
+pandas==2.2.2
+scikit-learn==1.6.1
+xgboost==3.2.0
+joblib==1.5.1
+numpy==2.0.2
